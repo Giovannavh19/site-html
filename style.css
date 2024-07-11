@@ -1,0 +1,22 @@
+body{
+    margin: 45x;
+}
+
+table{
+    width: 50%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 25;
+    text-align: center;
+    border-bottom: 10px;
+}
+
+th,td{
+   padding: 12px;
+   border-bottom: 10px;
+
+}
+
+th{
+    background-color: aqua;
+}
